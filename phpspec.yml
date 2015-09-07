@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Dirtsync
+        psr4_prefix: Dirtsync
+        src_path: app
